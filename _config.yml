@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Soon Wei Daniel Lim"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Soon Wei Daniel Lim"
-description              : &description "Schmidt Science Fellow at Stanford University"
-url                      : https://danlimsw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "danlimsw.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,33 +22,33 @@ repository               : "danlimsw.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Soon Wei Daniel Lim"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Schmidt Science Fellow at Stanford University"
-  location         : "Stanford, California"
-  employer         : "Stanford Medicine"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "danlimsw@stanford.edu" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=JfH7A88AAAAJ
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-1689-6860"
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
