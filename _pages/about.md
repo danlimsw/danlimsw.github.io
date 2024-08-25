@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Soon Wei Daniel Lim (Daniel)"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Welcome!
 
 I am an interdisciplinary applied physicist with a unique background in both life and physical sciences. I have research experience in mouse model studies of neurodegeneration, through to self-assembled microstructured surfaces, micro-optical device fabrication with bespoke surface tension force fields, particle-laden computational fluid dynamics, and have worked in algorithmic tools, nanoscale devices, and system-level optics to exert arbitrary wavefront control. My work has applications ranging from atomic physics to bioimaging. I am currently a postdoctoral scholar studying medical imaging hardware and image reconstruction algorithms using ultrasound with [Prof. Steven Chu](https://www.stevechulab.com/) at Stanford University.
 
