@@ -8,3 +8,4 @@ venue: 'ACS Nano'
 exerpt: '18.7 billion nanostructures in a 100 mm diameter metalens.'
 paperurl: 'https://github.com/danlimsw/danlimsw.github.io/blob/master/files/d100mmmetalens_maintext_revised_final.pdf'
 ---
+[Supplementary Information](https://github.com/danlimsw/danlimsw.github.io/blob/master/files/d100mmmetalens_supplementaryinformation.pdf)
