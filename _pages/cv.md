@@ -41,7 +41,7 @@ Work experience
   * Advisor: Prof. Sandra Troian.
   * Fabricated microlens arrays in polymer with spatially-varying surface tension.
  
-Fellowships and Awards
+Selected Fellowships and Awards
 ======
 * Schmidt Science Fellowship (2024-2026), Schmidt Sciences.
 * NUS Development Grant (Postdoctoral) (2024-2025), National University of Singapore.
