@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Nov 2023 - Present: Schmidt Science Fellow, Stanford Medicine
-  * Advisor: Prof. Steve Chu
+  * Advisor: Prof. Steven Chu
   * Developing novel ultrasound and photoacoustic medical imaging devices.
 
 * Sep 2018 - Sep 2023: Doctoral Researcher, Harvard University
@@ -39,7 +39,18 @@ Work experience
  
 Fellowships and Awards
 ======
-* Schmidt Science Fellowship, Schmidt Sciences (2024-2026)
+* Schmidt Science Fellowship (2024-2026), Schmidt Sciences.
+* NUS Development Grant (Postdoctoral) (2024-2025), National University of Singapore.
+* National Science Scholarship (2011-2023), A*STAR Singapore.
+* Lindau Young Scientist (2019).
+* A*STAR Roll of Honor (2017).
+* California Institute of Technology awards: 
+  * D.S. Kothari Prize in Physics} (2017) for outstanding research project.
+  * Friends of the Caltech Libraries Senior Thesis Prize (2017) for excellence in research, writing and effective use of library resources in Senior Thesis.
+  * Haren Lee Fisher Memorial Award in Junior Physics (2016) for demonstrating greatest promise of future contributions to physics.
+  * Jack E. Froehlich Memorial Award (2016) for junior in upper 5 percent of class showing outstanding promise for creative professional career.
+* Ken Hass Outstanding Student Paper Award (2017), American Physical Society.
+* International Physics Olympiad Silver Medal (2010). 
 
 Publications
 ======
