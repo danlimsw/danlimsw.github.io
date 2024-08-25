@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (under construction)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,46 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. Applied Physics, Harvard University, 2023
+* B.S. Physics, California Institute of Technology, 2017
+* Caltech Cambridge Scholar, Cambridge University, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov 2023 - Present: Schmidt Science Fellow, Stanford Medicine
+  * Advisor: Prof. Steve Chu
+  * Developing novel ultrasound and photoacoustic medical imaging devices.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2018 - Sep 2023: Doctoral Researcher, Harvard University
+  * Advisor: Prof. Federico Capasso
+  * Investigated counter-intuitive fundamental behavior of structured light fields containing optical singularities (``dark" regions of light).
+  * Achieved a flat lens that uses extremely deep and narrow holes, the highest aspect ratio nanostructures for wavefront shaping as of publication.
+  * Mentored an undergraduate (now PhD candidate, University of Toronto) and a high school student (now Harvard undergraduate).
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* Jan 2018 - Jun 2018: Research Assistant, Bioprocessing Technology Institute, A*STAR
+  * Modeled multiphase computational fluid dynamics  for inertial focusing in dense particle-laden flows.
+ 
+* Jul 2016 - Dec 2017: Research Engineer, Singapore Institute of Manufacturing Technology, A*STAR
+  * Numerically simulated strong-field light-matter interactions in laser-based particle acceleration.
+ 
+* Jan 2015 - Jun 2017: Undergraduate Researcher, California Institute of Technology
+  * Advisor: Prof. Sandra Troian.
+  * Fabricated microlens arrays in polymer with spatially-varying surface tension.
+ 
+Fellowships and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Schmidt Science Fellowship, Schmidt Sciences (2024-2026)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -59,6 +53,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
