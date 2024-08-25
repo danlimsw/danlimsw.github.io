@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Summary
+======
+I am an interdisciplinary applied physicist with a unique background in both life and physical sciences. I have research experience in mouse model studies of neurodegeneration, micro-optical device fabrication by harnessing surface tension, particle-laden computational fluid dynamics, and algorithmic tools and nanoscale devices to control every degree of freedom in optical wavefronts.
+
 Education
 ======
 * Ph.D. Applied Physics, Harvard University, 2023
@@ -45,7 +49,7 @@ Fellowships and Awards
 * Lindau Young Scientist (2019).
 * A*STAR Roll of Honor (2017).
 * California Institute of Technology awards: 
-  * D.S. Kothari Prize in Physics} (2017) for outstanding research project.
+  * D.S. Kothari Prize in Physics (2017) for outstanding research project.
   * Friends of the Caltech Libraries Senior Thesis Prize (2017) for excellence in research, writing and effective use of library resources in Senior Thesis.
   * Haren Lee Fisher Memorial Award in Junior Physics (2016) for demonstrating greatest promise of future contributions to physics.
   * Jack E. Froehlich Memorial Award (2016) for junior in upper 5 percent of class showing outstanding promise for creative professional career.
