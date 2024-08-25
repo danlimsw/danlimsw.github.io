@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Soon Wei Daniel Lim"
+title                    : "Under construction"
 title_separator          : "-"
 name                     : &name "Soon Wei Daniel Lim"
 description              : &description "Academic page"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Soon Wei Daniel Lim"
   pronouns         : # example: "she/her"  
-  bio              : "Applied Physicist and Biomedical Engineer"
+  bio              : "Applied Physicist, Biomedical Engineer, Schmidt Science Fellow"
   location         : "Stanford, CA"
   employer         : "Stanford Medicine"
   uri              : # URL
@@ -81,6 +81,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  theses:
+    title: 'Theses'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
