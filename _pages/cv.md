@@ -27,7 +27,7 @@ Work experience
 
 * Sep 2018 - Sep 2023: Doctoral Researcher, Harvard University
   * Advisor: Prof. Federico Capasso
-  * Investigated counter-intuitive fundamental behavior of structured light fields containing optical singularities (``dark" regions of light).
+  * Investigated counter-intuitive fundamental behavior of structured light fields containing optical singularities ("dark" regions of light).
   * Achieved a flat lens that uses extremely deep and narrow holes, the highest aspect ratio nanostructures for wavefront shaping as of publication.
   * Mentored an undergraduate (now PhD candidate, University of Toronto) and a high school student (now Harvard undergraduate).
 
