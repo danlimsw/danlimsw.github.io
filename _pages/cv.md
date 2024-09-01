@@ -16,8 +16,13 @@ I am an interdisciplinary applied physicist with a unique background in both lif
 Education
 ======
 * Ph.D. Applied Physics, Harvard University, 2023
+  * Thesis: [Sculpting the dark: Singularity engineering with metasurfaces](https://www.proquest.com/dissertations-theses/sculpting-dark-singularity-engineering-with/docview/2892615112/se-2?accountid=14026)
+  * GPA: 4.0/4.0
 * B.S. Physics, California Institute of Technology, 2017
+  * Thesis: [Revolution in large-area curved surface lithography: Nanofilm sculpting by thermocapillary modulation](https://thesis.library.caltech.edu/10176/)
+  * GPA: 4.3/4.3, rank 1/254
 * Caltech Cambridge Scholar, Cambridge University, 2016
+  * Class: First
 
 Work experience
 ======
@@ -43,18 +48,18 @@ Work experience
  
 Selected Fellowships and Awards
 ======
-* Schmidt Science Fellowship (2024-2026), Schmidt Sciences.
-* NUS Development Grant (Postdoctoral) (2024-2025), National University of Singapore.
-* National Science Scholarship (2011-2023), A*STAR Singapore.
-* Lindau Young Scientist (2019).
+* [Schmidt Science Fellowship](https://schmidtsciencefellows.org/fellow/soon-wei-daniel-lim/) (2024-2026), Schmidt Sciences.
+* [NUS Development Grant](https://www.nus.edu.sg/careers/nus-programmes/nus-programmes-scholarships/) (Postdoctoral) (2024-2025), National University of Singapore.
+* [National Science Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/national-science-scholarship-phd) (2011-2023), [A*STAR](https://www.a-star.edu.sg/) Singapore.
+* [Lindau Young Scientist](https://www.lindau-nobel.org/) (2019).
 * A*STAR Roll of Honor (2017).
 * California Institute of Technology awards: 
-  * D.S. Kothari Prize in Physics (2017) for outstanding research project.
-  * Friends of the Caltech Libraries Senior Thesis Prize (2017) for excellence in research, writing and effective use of library resources in Senior Thesis.
-  * Haren Lee Fisher Memorial Award in Junior Physics (2016) for demonstrating greatest promise of future contributions to physics.
-  * Jack E. Froehlich Memorial Award (2016) for junior in upper 5 percent of class showing outstanding promise for creative professional career.
-* Ken Hass Outstanding Student Paper Award (2017), American Physical Society.
-* International Physics Olympiad Silver Medal (2010). 
+  * [D.S. Kothari Prize in Physics](https://pma.caltech.edu/research-and-academics/physics/physics-prizes-awards/ds-kothari-prize-winners) (2017) for outstanding research project.
+  * [Friends of the Caltech Libraries Senior Thesis Prize](https://library.caltech.edu/events/senior-thesis-prize) (2017) for excellence in research, writing and effective use of library resources in Senior Thesis.
+  * [Haren Lee Fisher Memorial Award in Junior Physics](https://pma.caltech.edu/research-and-academics/physics/physics-prizes-awards/haren-lee-fisher-memorial-award-in-junior-physics-winners) (2016) for demonstrating greatest promise of future contributions to physics.
+  * [Jack E. Froehlich Memorial Award](https://deans.caltech.edu/Grants_Funding/Froehlich) (2016) for junior in upper 5 percent of class showing outstanding promise for creative professional career.
+* [Ken Hass Outstanding Student Paper Award](https://engage.aps.org/fiap/honors/prizes-awards/hass) (2017), American Physical Society.
+* [International Physics Olympiad](https://ipho-unofficial.org/countries/SGP/individual) Silver Medal (2010). 
 
 Publications
 ======
