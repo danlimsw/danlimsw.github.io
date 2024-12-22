@@ -24,7 +24,7 @@ Work experience
 ======
 * Nov 2023 - Present: Schmidt Science Fellow, Stanford Medicine
   * Advisor: Prof. Steven Chu.
-  * Developing low cost, high efficiency intracellular delivery techniques for \textit{in vivo} diagnostics.
+  * Developing low cost, high efficiency intracellular delivery techniques for *in vivo* diagnostics.
 
 * Sep 2018 - Sep 2023: Doctoral Researcher, Harvard University
   * Advisor: Prof. Federico Capasso
