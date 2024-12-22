@@ -2,7 +2,7 @@
 title: "Time reversal differentiation of FDTD for photonic inverse design"
 collection: publications
 category: manuscripts
-permalink: /publication/2023_ACS_Photonics
+permalink: /publication/2023_ACSPhotonics
 excerpt: 'Direct differentiation of FDTD enables frequency-domain and time-domain topology optimization.'
 date: 2023-11-14
 venue: 'ACS Photonics'
