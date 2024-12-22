@@ -10,3 +10,4 @@ paperurl: 'http://danlimsw.github.io/files/tang_et_al_2023_time_reversal_differe
 citation: 'Rui Jie Tang, Soon Wei Daniel Lim, Marcus Ossiander, Xinghui Yin, Federico Capasso, Time reversal differentiation of FDTD for photonic inverse design, <i>ACS Photonics</i> <b>10</b>(12), 4140-4150 (2023)'
 ---
 
+[Supplementary Information](https://danlimsw.github.io/files/ph3c00694_si_005.pdf)
