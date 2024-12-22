@@ -49,10 +49,10 @@ Selected Awards
 * [Lindau Young Scientist](https://www.lindau-nobel.org/) (2019).
 * A*STAR Roll of Honor (2017).
 * California Institute of Technology awards: 
-  * [D.S. Kothari Prize in Physics](https://pma.caltech.edu/research-and-academics/physics/physics-prizes-awards/ds-kothari-prize-winners) (2017) for outstanding research project.
-  * [Friends of the Caltech Libraries Senior Thesis Prize](https://library.caltech.edu/events/senior-thesis-prize) (2017) for excellence in research, writing and effective use of library resources in Senior Thesis.
-  * [Haren Lee Fisher Memorial Award in Junior Physics](https://pma.caltech.edu/research-and-academics/physics/physics-prizes-awards/haren-lee-fisher-memorial-award-in-junior-physics-winners) (2016) for demonstrating greatest promise of future contributions to physics.
-  * [Jack E. Froehlich Memorial Award](https://deans.caltech.edu/Grants_Funding/Froehlich) (2016) for junior in upper 5 percent of class showing outstanding promise for creative professional career.
+  * [D.S. Kothari Prize in Physics](https://pma.caltech.edu/research-and-academics/physics/physics-prizes-awards/ds-kothari-prize-winners) (2017(.
+  * [Friends of the Caltech Libraries Senior Thesis Prize](https://library.caltech.edu/events/senior-thesis-prize) (2017).
+  * [Haren Lee Fisher Memorial Award in Junior Physics](https://pma.caltech.edu/research-and-academics/physics/physics-prizes-awards/haren-lee-fisher-memorial-award-in-junior-physics-winners) (2016).
+  * [Jack E. Froehlich Memorial Award](https://deans.caltech.edu/Grants_Funding/Froehlich) (2016).
 * [Ken Hass Outstanding Student Paper Award](https://engage.aps.org/fiap/honors/prizes-awards/hass) (2017), American Physical Society.
 * [International Physics Olympiad](https://ipho-unofficial.org/countries/SGP/individual) Silver Medal (2010). 
 
