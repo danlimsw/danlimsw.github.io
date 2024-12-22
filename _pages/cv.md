@@ -49,7 +49,7 @@ Selected Awards
 * [Lindau Young Scientist](https://www.lindau-nobel.org/) (2019).
 * A*STAR Roll of Honor (2017).
 * California Institute of Technology awards: 
-  * [D.S. Kothari Prize in Physics](https://pma.caltech.edu/research-and-academics/physics/physics-prizes-awards/ds-kothari-prize-winners) (2017(.
+  * [D.S. Kothari Prize in Physics](https://pma.caltech.edu/research-and-academics/physics/physics-prizes-awards/ds-kothari-prize-winners) (2017).
   * [Friends of the Caltech Libraries Senior Thesis Prize](https://library.caltech.edu/events/senior-thesis-prize) (2017).
   * [Haren Lee Fisher Memorial Award in Junior Physics](https://pma.caltech.edu/research-and-academics/physics/physics-prizes-awards/haren-lee-fisher-memorial-award-in-junior-physics-winners) (2016).
   * [Jack E. Froehlich Memorial Award](https://deans.caltech.edu/Grants_Funding/Froehlich) (2016).
