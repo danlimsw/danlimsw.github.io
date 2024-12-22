@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. Applied Physics, Harvard University, 2023
-  * Thesis: [Sculpting the dark: Singularity engineering with metasurfaces](https://www.proquest.com/dissertations-theses/sculpting-dark-singularity-engineering-with/docview/2892615112/se-2?accountid=14026)
+  * Thesis: [Sculpting the dark: Singularity engineering with metasurfaces](https://www.proquest.com/docview/2892615112/fulltextPDF/6CD9A7EFBA8C4A6FPQ/)
   * GPA: 4.0/4.0
 * B.S. Physics, California Institute of Technology, 2017
   * Thesis: [Revolution in large-area curved surface lithography: Nanofilm sculpting by thermocapillary modulation](https://thesis.library.caltech.edu/10176/)
