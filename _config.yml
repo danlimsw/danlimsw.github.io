@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Soon Wei Daniel Lim"
   pronouns         : # example: "she/her"  
-  bio              : "Applied Physicist, Biomedical Engineer, Schmidt Science Fellow, Young NUS Fellow"
+  bio              : "Schmidt Science Fellow, Applied Physicist, Biomedical Engineer, Young NUS Fellow"
   location         : "Stanford, CA"
   employer         : "Stanford Medicine"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "soon-wei-daniel-lim" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
