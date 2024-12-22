@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Summary
-======
-I am an interdisciplinary applied physicist with a unique background in both life and physical sciences. I have research experience in mouse model studies of neurodegeneration, micro-optical device fabrication by harnessing surface tension, particle-laden computational fluid dynamics, and algorithmic tools and nanoscale devices to control every degree of freedom in optical wavefronts.
-
 Education
 ======
 * Ph.D. Applied Physics, Harvard University, 2023
@@ -27,8 +23,8 @@ Education
 Work experience
 ======
 * Nov 2023 - Present: Schmidt Science Fellow, Stanford Medicine
-  * Advisor: Prof. Steven Chu
-  * Developing novel ultrasound and photoacoustic medical imaging devices.
+  * Advisor: Prof. Steven Chu.
+  * Developing low cost, high efficiency intracellular delivery techniques for \textit{in vivo} diagnostics.
 
 * Sep 2018 - Sep 2023: Doctoral Researcher, Harvard University
   * Advisor: Prof. Federico Capasso
@@ -37,20 +33,19 @@ Work experience
   * Mentored an undergraduate (now PhD candidate, University of Toronto) and a high school student (now Harvard undergraduate).
 
 * Jan 2018 - Jun 2018: Research Assistant, Bioprocessing Technology Institute, A*STAR
-  * Modeled multiphase computational fluid dynamics  for inertial focusing in dense particle-laden flows.
+  * Advisor: Prof. Shireen Goh (now at SUTD, Singapore)
+  * Modeled multiphase computational fluid dynamics for inertial focusing in dense particle-laden flows.
  
 * Jul 2016 - Dec 2017: Research Engineer, Singapore Institute of Manufacturing Technology, A*STAR
+  * Advisor: Prof. Wong Liang Jie (now at NTU, Singapore)
   * Numerically simulated strong-field light-matter interactions in laser-based particle acceleration.
  
 * Jan 2015 - Jun 2017: Undergraduate Researcher, California Institute of Technology
   * Advisor: Prof. Sandra Troian.
   * Fabricated microlens arrays in polymer with spatially-varying surface tension.
  
-Selected Fellowships and Awards
+Selected Awards
 ======
-* [Schmidt Science Fellowship](https://schmidtsciencefellows.org/fellow/soon-wei-daniel-lim/) (2024-2026), Schmidt Sciences.
-* [NUS Development Grant](https://www.nus.edu.sg/careers/nus-programmes/nus-programmes-scholarships/) (Postdoctoral) (2024-2025), National University of Singapore.
-* [National Science Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/national-science-scholarship-phd) (2011-2023), [A*STAR](https://www.a-star.edu.sg/) Singapore.
 * [Lindau Young Scientist](https://www.lindau-nobel.org/) (2019).
 * A*STAR Roll of Honor (2017).
 * California Institute of Technology awards: 
@@ -60,6 +55,12 @@ Selected Fellowships and Awards
   * [Jack E. Froehlich Memorial Award](https://deans.caltech.edu/Grants_Funding/Froehlich) (2016) for junior in upper 5 percent of class showing outstanding promise for creative professional career.
 * [Ken Hass Outstanding Student Paper Award](https://engage.aps.org/fiap/honors/prizes-awards/hass) (2017), American Physical Society.
 * [International Physics Olympiad](https://ipho-unofficial.org/countries/SGP/individual) Silver Medal (2010). 
+
+Fellowships and Grants
+=====
+- **US$220,000**: [Schmidt Science Fellowship](https://schmidtsciencefellows.org/), Schmidt Sciences (2024-2026)  
+- **SGD$20,000**: [NUS Development Grant](https://www.nus.edu.sg/careers/nus-programmes/nus-programmes-scholarships/), National University of Singapore (2024-2025)  
+- **8 years full funding**: [National Science Scholarship](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/national-science-scholarship-bs), A*STAR Singapore (2013-2023)
 
 Publications
 ======
