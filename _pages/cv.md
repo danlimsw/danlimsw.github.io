@@ -64,9 +64,12 @@ Fellowships and Grants
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% assign counter = site.publications | size %} <!-- Initialize counter -->
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html counter=counter %} <!-- Pass counter to the include -->
+  {% assign counter = counter | minus: 1 %} <!-- Decrement counter -->
+{% endfor %}
+
   
 Teaching
 ======
