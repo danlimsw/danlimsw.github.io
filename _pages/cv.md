@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF version of CV](https://danlimsw.github.io/files/20241226_CV.pdf)
+
 Education
 ======
 * Ph.D. Applied Physics, Harvard University, 2023
