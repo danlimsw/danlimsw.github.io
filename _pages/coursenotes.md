@@ -1,6 +1,5 @@
-
 ---
-permalink: /
+permalink: /coursenotes
 title: "Course notes"
 author_profile: true
 redirect_from: 
