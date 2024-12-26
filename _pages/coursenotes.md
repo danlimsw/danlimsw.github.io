@@ -19,6 +19,7 @@ Asian Physics Olympiad and International Physics Olympiad, Notes created: 2010
 [PDF: Useful formulae](https://danlimsw.github.io/files/notes/2010_physics_olympiad_notes.pdf)
 
 ## Introduction to Electrodynamics
+
 An essential textbook by David J. Griffiths, Notes created: 2013
 
 [PDF: Summary of electrodynamics](https://danlimsw.github.io/files/notes/2013_electrodynamics_notes.pdf)
@@ -35,19 +36,25 @@ An essential textbook by David J. Griffiths, Notes created: 2013
 ## Multivariable Calculus (Caltech Ma 1c, Spring 2013-2014)
 
 [PDF: Class notes](https://danlimsw.github.io/files/notes/2014_ma1c_class_notes_updated.pdf)
+
 [PDF: Theorems and definitions](https://danlimsw.github.io/files/notes/2014_ma1c_apostol_notes.pdf)
 
 ## Introductory Methods of Applied Mathematics (Caltech ACM 95abc, 2014-2015)
 
 [PDF: ACM95a Theorems](https://danlimsw.github.io/files/notes/2014_acm95a_own_notes.pdf)
+
 [PDF: ACM95a Class Notes](https://danlimsw.github.io/files/notes/2014_acm95a_class_notes.pdf)
+
 [PDF: ACM95b Theorems](https://danlimsw.github.io/files/notes/2015_acm95b_book_notes.pdf)
+
 [PDF: ACM95c Theorems](https://danlimsw.github.io/files/notes/2015_acm95c_book_notes.pdf)
+
 [PDF: ACM95b Class Notes](https://danlimsw.github.io/files/notes/2015_acm95c_class_notes.pdf)
 
 ## Differential Equations (Caltech Ma 2, Fall 2014-2015)
 
 [PDF: Theorems](https://danlimsw.github.io/files/notes/2014_ma2_book_notes.pdf)
+
 [PDF: Class Notes](https://danlimsw.github.io/files/notes/2014_ma2_class_notes.pdf)
 
 ## Probability and Statistics (Caltech Ma 3, Winter 2014-2015)
@@ -61,11 +68,13 @@ An essential textbook by David J. Griffiths, Notes created: 2013
 ## Introduction to Quantum Mechanics (Caltech Ph 12b, Winter 2014-2015)
 
 [PDF: Equations](https://danlimsw.github.io/files/notes/2015_ph12b_book_notes.pdf)
+
 [PDF: Class Notes](https://danlimsw.github.io/files/notes/2015_ph_12b_class_notes.pdf)
 
 ## Statistical Mechanics (Caltech Ph 12c, Spring 2014-2015)
 
 [PDF: Equations](https://danlimsw.github.io/files/notes/2015_ph12c_book_notes.pdf)
+
 [PDF: Class Notes](https://danlimsw.github.io/files/notes/2015_ph12c_class_notes.pdf)
 
 ## Feedback and Control Circuits (Caltech EE113, Spring 2014-2015)
@@ -75,18 +84,23 @@ An essential textbook by David J. Griffiths, Notes created: 2013
 ## Classical Mechanics (Caltech Ph 106abc, 2015-2016)
 
 [PDF: Ph106a Equations](https://danlimsw.github.io/files/notes/2015_ph106a_book_notes.pdf)
+
 [PDF: Ph106a Class Notes](https://danlimsw.github.io/files/notes/2015_ph106a_class_notes.pdf)
+
 [PDF: Ph106c Equations](https://danlimsw.github.io/files/notes/2016_ph106c_book_notes.pdf)
 
 ## Quantum Mechanics (Caltech Ph 125abc, 2015-2016)
 
 [PDF: Ph125a Equations](https://danlimsw.github.io/files/notes/2015_ph125a_book_notes.pdf)
+
 [PDF: Ph125a Class Notes](https://danlimsw.github.io/files/notes/2015_ph125a_class_notes.pdf)
+
 [PDF: Ph125c Equations](https://danlimsw.github.io/files/notes/2016_ph125c_book_notes.pdf)
+
 [PDF: Ph125c Class Notes](https://danlimsw.github.io/files/notes/2016_ph125c_class_notes.pdf)
 
 ## Astrophysical Fluids (Cambridge University, Winter 2016)
 
 [PDF: Class Notes](https://danlimsw.github.io/files/notes/2016_astrophysical_fluids_notes.pdf)
 
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
