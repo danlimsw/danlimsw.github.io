@@ -76,5 +76,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+  Open-sourced class notes and textbook summaries available in [Course Notes](/coursenotes).
   
 
