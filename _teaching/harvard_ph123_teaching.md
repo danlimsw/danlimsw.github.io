@@ -1,7 +1,7 @@
 ---
 title: "Harvard Physics 123/223: Laboratory Electronics"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/harvard_ph123_teaching
 venue: "Harvard University, Physics"
 date: 2019-09-01
