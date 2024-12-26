@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV (under construction)"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
