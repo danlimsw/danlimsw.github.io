@@ -21,7 +21,7 @@ repository               : "danlimsw/danlimsw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.webp"
   name             : "Soon Wei Daniel Lim"
   pronouns         : # example: "she/her"  
   bio              : "Schmidt Science Fellow, Applied Physicist, Biomedical Engineer, Young NUS Fellow"
