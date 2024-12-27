@@ -12,7 +12,7 @@ title                    : "Soon Wei Daniel Lim"
 title_separator          : "-"
 name                     : &name "Soon Wei Daniel Lim"
 description              : &description "Academic page"
-url                      : https://danlimsw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : danlimsw.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danlimsw/danlimsw.github.io"
 
