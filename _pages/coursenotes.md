@@ -6,6 +6,11 @@ author_profile: true
 
 **Disclaimer**: The following notes below are provided as-is. There are likely to be mistakes and typographic errors in the Class Notes, which were typed on the fly while straining to keep up with the Caltech fire hose. Please contact Daniel if and when you find serious conceptual or equation errors. He will likely buy you a coffee if in the area.
 
+## A simple introduction to Automatic Differentiation
+Teaching Seminar, created: 2025
+
+[Presentation PDF](https://danlimsw.github.io/files/notes/20250219_NTU_teaching_autodiff_compact.pdf)
+[Python Notebook](https://danlimsw.github.io/files/notes/Introduction_to_Autodiff.ipynb)
 
 ## Higher 3 Physics (JC2/Year 12)
 Singapore-Cambridge General Certificate of Education, Notes created: 2010
