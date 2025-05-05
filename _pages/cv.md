@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF version of CV](https://danlimsw.github.io/files/20241226_CV.pdf)
+[Download PDF version of CV](https://danlimsw.github.io/files/20250505_CV_nocitations.pdf)
 
 Education
 ======
