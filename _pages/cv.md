@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum vitae"
+title: "About PI"
 permalink: /cv/
 author_profile: true
 redirect_from:
