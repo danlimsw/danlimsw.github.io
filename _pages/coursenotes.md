@@ -4,7 +4,7 @@ title: "Course notes"
 author_profile: true
 ---
 
-**Disclaimer**: The following notes below are provided as-is. There are likely to be mistakes and typographic errors in the Class Notes, which were typed on the fly while straining to keep up with the Caltech fire hose. Please contact Daniel if and when you find serious conceptual or equation errors. He will likely buy you a coffee if in the area.
+**Disclaimer**: The following notes below are provided as-is. Please contact Daniel if and when you find serious conceptual or equation errors. He will likely buy you a coffee.
 
 ## A simple introduction to Automatic Differentiation
 Teaching Seminar, created: 2025
