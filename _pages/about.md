@@ -9,7 +9,7 @@ redirect_from:
 The Lim Lab at the Nanyang Technological University (NTU) School of [Mechanical and Aerospace Engineering (MAE)](https://www.ntu.edu.sg/mae) in Singapore designs transformational low-cost, high-accessibility medical diagnostics. We are a new research group opening in Semester 1 of 2026 (August/September 2026)!
 
 # Join us!
-We are looking for founding adventurers at all levels (e.g., final year project undergraduates, Master's students, PhD candidates, research staff). Success not guaranteed; scientific excitement inevitable. Sounds like you? [Contact us here.](https://forms.gle/pw33Vd5LuwgMVA4NA)
+We are looking for founding adventurers at all levels (e.g., final year project undergraduates, Master's students, PhD candidates, research staff). Success not guaranteed; scientific excitement inevitable. Sounds like you? [See openings and contact information here.](join.md)
 
 # Personal background
 
