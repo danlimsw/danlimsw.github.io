@@ -17,6 +17,9 @@ main:
   - title: "Course notes"
     url: /coursenotes/
 
+  - title: "Art"
+    url: /art/
+
   - title: "News"
     url: /news/
     
