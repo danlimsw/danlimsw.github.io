@@ -30,7 +30,7 @@ Experiments tend to be rather boring when they work precisely as expected. Mista
   <a href="/images/20201210_D43_1_TLD_SE_maskside_overview_010.jpeg" target="_blank">
     <img src="/images/20201210_D43_1_TLD_SE_maskside_overview_010.jpeg" alt="Alien Freckles (2020)" style="max-width:75%; height:auto;"/>
   </a>
-  <figcaption style="text-align:left;"> Source: Daniel Lim and Maryna Meretska. Medium: Scanning Electron Microscope (FEI Helios). 
+  <figcaption style="text-align:left;"> Trypophobic bumps engulf an array of deep pits, conjuring an uncomfortable alien landscape. This freckled surface was captured during a silicon etch test for the <a href="/files/lim-et-al-2021-a-high-aspect-ratio-inverse-designed-holey-metalens-1.pdf" target="_black">holey metalens</a> nanofabrication. Source: Daniel Lim and Maryna Meretska. Medium: Scanning Electron Microscope (FEI Helios). 
   </figcaption>
 </figure>
 
@@ -39,6 +39,6 @@ Experiments tend to be rather boring when they work precisely as expected. Mista
   <a href="/images/20210116_D47_2_dosetest1_dose11_diam400nm_TLD_SE_021.jpeg" target="_blank">
     <img src="/images/20210116_D47_2_dosetest1_dose11_diam400nm_TLD_SE_021.jpeg" alt="Jellied Silicon (2021)" style="max-width:75%; height:auto;"/>
   </a>
-  <figcaption style="text-align:left;"> Source: Daniel Lim and Maryna Meretska. Medium: Scanning Electron Microscope (FEI Helios). 
+  <figcaption style="text-align:left;"> Scaly tentacles dangle playfully from a blocky jellyfish head. This cross-sectional profile, captured during <a href="/files/lim-et-al-2021-a-high-aspect-ratio-inverse-designed-holey-metalens-1.pdf" target="_black">holey metalens</a> nanofabrication process optimization, demonstrates the effect of overetching when making deep holes in silicon. The block on top is made of platinum, which helps protect the underlying patterns while making cross-sectional ion beam cuts. Source: Daniel Lim and Maryna Meretska. Medium: Scanning Electron Microscope (FEI Helios). 
   </figcaption>
 </figure>
