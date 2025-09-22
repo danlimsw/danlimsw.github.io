@@ -21,7 +21,7 @@ Experiments tend to be rather boring when they work precisely as expected. Mista
   <a href="/images/20201210_D43_1_ETD_SE_membrane_overview_021.jpeg" target="_blank">
     <img src="/images/20201210_D43_1_ETD_SE_membrane_overview_021.jpeg" alt="Gateway to Mordor (2020)" style="max-width:75%; height:auto;"/>
   </a>
-  <figcaption style="text-align:left;"> Tall gray pillars line an ominous boulevard. The sharp surface relief was created by deep reactive ion etching of silicon during nanofabrication optimization of the <a href="/files/lim-et-al-2021-a-high-aspect-ratio-inverse-designed-holey-metalens-1.pdf" target="_black">holey metalens</a> back etch. Source: Daniel Lim and Maryna Meretska. Medium: Scanning Electron Microscope (FEI Helios). 
+  <figcaption style="text-align:left;"> Tall gray pillars line an ominous boulevard. The sharp surface relief was created by deep reactive ion etching of silicon during nanofabrication optimization of the <a href="/files/lim-et-al-2021-a-high-aspect-ratio-inverse-designed-holey-metalens-1.pdf" target="_black">holey metalens</a> back etch. Source: Daniel Lim and Maryna Meretska. Alternate version colored by Joon-Suh Park. Medium: Scanning Electron Microscope (FEI Helios). 
   </figcaption>
 </figure>
 
