@@ -57,3 +57,5 @@ One fully funded Ph.D. position is available for the design and development of a
 - Start dates: The Ph.D. and M.Eng. intake is in August and January each year. Other positions can start at mutually agreed times.
 - Lab culture: The Lim Lab values curiosity, experimentation, and a healthy work-life balance. Group members have regular one-to-one meetings for guidance and mentorship, support for conference travel, and a compassionate, collaborative environment.
 - Shortlisted candidates will be invited for a video call and guided through the official NTU application and scholarship process.
+
+If Google Forms is inaccessible or restricted, you may consider [emailing directly](mailto:danlimsw@stanford.edu).
