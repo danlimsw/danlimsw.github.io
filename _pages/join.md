@@ -28,7 +28,7 @@ A fully funded Ph.D. position is available for the design and development of a p
 
 **Why is this important?** Conventional ultrasound devices typically rely on bulky piezoelectric crystals driven by high voltages. A new class of compact ultrasound sources relies on artificial structured materials known as metamaterials and metasurfaces. These comprise tiny structures engineered to have bespoke mechanical, optical, or acoustic properties that may not be achievable in bulk materials, and are ideal for manipulating photoacoustic and acoustic emissions within a tiny form factor. A compact broadband ultrasound source is transformative for both *in vivo* diagnostics and high speed *ex vivo* tissue analysis. 
 
-**What does this involve?** Design and fabrication of photoacoustic metamaterial elements, building of pulsed laser ****excitation and characterization setups; quantification of bandwidth, directivity, and efficiency, integration of sources with detection pipelines. 
+**What does this involve?** Design and fabrication of photoacoustic metamaterial elements, building of pulsed laser excitation and characterization setups; quantification of bandwidth, directivity, and efficiency, integration of sources with detection pipelines. 
 
 **Required background**: Classical wave theory, fluency in computer language of choice (Python, MATLAB, C++ preferred).
 
