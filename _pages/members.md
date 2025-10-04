@@ -11,7 +11,7 @@ Candidates that seek admission for the August 2026 start date should submit an a
 
 ## Expectations
 
-Expectations for myself and the research group are "over-communicated" through a living continuously-updated document shared within the group, based on *Expectations* by [John Boothroyd](https://med.stanford.edu/boothroydlab), Stanford University (2022 revision). One section is quoted below.
+Expectations for myself and the research group are "over-communicated" through a living continuously-updated document shared within the group, adapted with modification from *Expectations* by [John Boothroyd](https://med.stanford.edu/boothroydlab), Stanford University (2022 revision). One section is listed below.
 
 As PI, I will strive to do what I can to:
 * Create a research and learning environment where all are welcome, feel they belong, and feel supported to do ambitious work. 
