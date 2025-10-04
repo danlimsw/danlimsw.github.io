@@ -11,6 +11,8 @@ The Lim Lab at the Nanyang Technological University (NTU) School of [Mechanical 
 # Join us!
 We are looking for founding adventurers at all levels (e.g., final year project undergraduates, Master's students, PhD candidates, research staff). Success not guaranteed; scientific excitement inevitable. Sounds like you? [See openings and contact information here.](join.md)
 
+Candidates that seek admission for the August 2026 start date should submit an application at the link [here](join.md) before 1 Dec 2025, and ideally as soon as possible.
+
 # Personal background
 
 Daniel is an interdisciplinary applied physicist with a unique background in both life and physical sciences. He has research experience in mouse model studies of neurodegeneration, micro-optical device fabrication by harnessing surface tension, particle-laden computational fluid dynamics, neural network algorithmic tools for optimal design, nanoscale devices to control every degree of freedom in wavefronts, radiofrequency/ultrasound image reconstruction, and bioengineering for drug, protein, and gene delivery to cells.
