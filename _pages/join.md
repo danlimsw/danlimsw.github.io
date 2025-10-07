@@ -46,7 +46,7 @@ One fully funded Ph.D. position is available for the design and development of a
 
 **What does this involve?** Development of nonlinear excitation/receive schemes and corresponding reconstruction pipelines; building of human-in-the-loop AI for acquisition guidance and artifact suppression, validation on phantoms and ex-vivo tissues with collaborators. 
 
-**Required background**: Classical wave theory, linear algebra, fluency in computer language of choice (Python, MATLAB, C++ preferred), at least one ML stack (PyTorch preferred).
+**Required background**: Classical wave theory, linear algebra, fluency in computer language of choice (Python, MATLAB, C++ preferred), at least one ML stack (PyTorch/JAX preferred).
 
 **Good to have:** Numerical simulation, computer vision (segmentation/registration).
 
