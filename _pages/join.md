@@ -8,8 +8,6 @@ We are looking for founding adventurers at all levels (e.g., final year project 
 
 Candidates that seek admission for the August 2026 start date should submit an application [here](https://forms.gle/pw33Vd5LuwgMVA4NA) before 1 Dec 2025, and ideally as soon as possible. If Google Forms is inaccessible or restricted, you may consider [emailing directly](mailto:danlimsw@stanford.edu).
 
-{% include toc %}
-
 # Openings
 
 ## Ph.D. student (Precision ultrasound detection for deep, high-resolution imaging)
