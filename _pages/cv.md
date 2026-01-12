@@ -24,8 +24,8 @@ Education
 
 Work experience
 ======
-* Sep 2026 onwards: Nanyang Assistant Professor, Nanyang Technological University, Singapore
-  * Department: Mechanical and Aerospace Engineering (MAE)
+* Sep 2026 onwards: Nanyang Assistant Professor, Nanyang Technological University and Bioinformatics Institute, A*STAR.
+  * NTU department: Mechanical and Aerospace Engineering (MAE)
 
 * Nov 2023 - Present: Schmidt Science Fellow, Stanford Medicine
   * Advisor: Prof. Steven Chu.
