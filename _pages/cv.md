@@ -63,6 +63,7 @@ Selected Awards
 
 Fellowships and Grants
 =====
+- **Start-up grant**: [Nanyang Assistant Professorship](https://www.ntu.edu.sg/research/research-careers), Nanyang Technological University (2026-2030)
 - **US$220,000**: [Schmidt Science Fellowship](https://schmidtsciencefellows.org/), Schmidt Sciences (2024-2026)  
 - **SGD$20,000**: [NUS Development Grant](https://www.nus.edu.sg/careers/nus-programmes/nus-programmes-scholarships/), National University of Singapore (2024-2025)  
 - **8 years full funding**: [National Science Scholarship](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/national-science-scholarship-bs), A*STAR Singapore (2013-2023)
