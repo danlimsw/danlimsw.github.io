@@ -23,7 +23,7 @@ main:
   - title: "News"
     url: /news/
     
-  - title: "About PI"
+  - title: "Principal Investigator"
     url: /cv/
 
   - title: "Join"
