@@ -18,7 +18,7 @@ author_profile: true
 ### Engineering phase and polarization singularity sheets ([Nat. Commun. 12, 2021](https://www.nature.com/articles/s41467-021-24493-y))
 
 * Harvard SEAS press release: [Harnessing the dark side](https://seas.harvard.edu/news/2021/07/harnessing-dark-side)
-* Phys.org: [Optical singularities could be used for a wide range of applications from super resolution imaging to optical trapping])https://phys.org/news/2021-07-optical-singularities-wide-range-applications.html)
+* Phys.org: [Optical singularities could be used for a wide range of applications from super resolution imaging to optical trapping](https://phys.org/news/2021-07-optical-singularities-wide-range-applications.html)
 * Photonics Spectra: [On-Demand Optical Singularities Strengthen Range of Applications](https://www.photonics.com/Articles/On-Demand_Optical_Singularities_Strengthen_Range/a67191)
 * Physics World: [Metamaterial sculpts heart-shaped darkness from light](https://physicsworld.com/a/metamaterial-sculpts-heart-shaped-darkness-from-light/?alm_mvr=0)
 
