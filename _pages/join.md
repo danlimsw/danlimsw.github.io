@@ -6,7 +6,9 @@ author_profile: true
 
 We are looking for founding adventurers at all levels (e.g., final year project undergraduates, Master's students, PhD candidates, research staff). Success not guaranteed; scientific excitement inevitable. Sounds like you? [Contact us here.](https://forms.gle/pw33Vd5LuwgMVA4NA)
 
-Candidates that seek admission for the August 2026 or January 2027 start dates should submit an application [here](https://forms.gle/pw33Vd5LuwgMVA4NA). If Google Forms is inaccessible or restricted, you may consider [emailing directly](mailto:danlimsw@stanford.edu).
+Candidates that seek admission for the August 2026 or January 2027 start dates should submit an inquiry [here](https://forms.gle/pw33Vd5LuwgMVA4NA) and also apply directly to [NTU MAE Admissions](https://www.ntu.edu.sg/education/graduate-programme/mae-phd) (Select "Others" and specify "Soon Wei Daniel Lim" in the dropdown box for potential supervisors). 
+
+If Google Forms is inaccessible or restricted, you may consider [emailing directly](mailto:danlimsw@stanford.edu).
 
 # Openings
 
