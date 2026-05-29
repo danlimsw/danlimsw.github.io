@@ -11,7 +11,7 @@ The Lim Lab at the Nanyang Technological University (NTU) School of [Mechanical 
 # Join us!
 We are looking for founding adventurers at all levels (e.g., final year project undergraduates, Master's students, PhD candidates, research staff). Success not guaranteed; scientific excitement inevitable. Sounds like you? [See openings and contact information here.](/join/)
 
-Candidates that seek admission for the August 2026 or January 2027 start dates should submit an application at the link [here](/join/).
+Candidates that seek admission for the January 2027 and August 2027 start dates should submit an inquiry [here](https://forms.gle/pw33Vd5LuwgMVA4NA) and also apply directly to [NTU MAE Admissions](https://www.ntu.edu.sg/education/graduate-programme/mae-phd) (Select "Others" and specify "Soon Wei Daniel Lim" in the dropdown box for potential supervisors). 
 
 # Personal background
 
