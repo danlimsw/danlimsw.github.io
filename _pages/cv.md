@@ -63,6 +63,7 @@ Selected Awards
 
 Fellowships and Grants
 =====
+- **Named professorship**: Alice Y. Hung Assistant Professor in Science and Technology (2026-2030)
 - **Start-up grant**: [Nanyang Assistant Professorship](https://www.ntu.edu.sg/research/research-careers), Nanyang Technological University (2026-2030)
 - **US$220,000**: [Schmidt Science Fellowship](https://schmidtsciencefellows.org/), Schmidt Sciences (2024-2026)  
 - **SGD$20,000**: [NUS Development Grant](https://www.nus.edu.sg/careers/nus-programmes/nus-programmes-scholarships/), National University of Singapore (2024-2025)  
