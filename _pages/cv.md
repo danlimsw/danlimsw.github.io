@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF version of CV](https://danlimsw.github.io/files/20260130_CV.pdf)
+[Download PDF version of CV](https://danlimsw.github.io/files/20260604_CV.pdf)
 
 Education
 ======
@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-* Sep 2026 onwards: Nanyang Assistant Professor, Nanyang Technological University and Bioinformatics Institute, A*STAR
+* Sep 2026 onwards: Alice Y. Hung Assistant Professor and Science and Technology and Nanyang Assistant Professor, Nanyang Technological University, and Principal Investigator, Bioinformatics Institute, A*STAR
   * NTU department: Mechanical and Aerospace Engineering (MAE)
 
 * Nov 2023 - Present: Schmidt Science Fellow, Stanford Medicine
