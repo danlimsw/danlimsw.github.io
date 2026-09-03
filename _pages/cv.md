@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-* Sep 2026 - Present: Alice Y. Hung Assistant Professor and Science and Technology and Nanyang Assistant Professor, Nanyang Technological University, and Principal Investigator, Bioinformatics Institute, A*STAR
+* Sep 2026 - Present: Alice Y. Hung Assistant Professor in Science and Technology and Nanyang Assistant Professor, Nanyang Technological University, and Principal Investigator, Bioinformatics Institute, A*STAR
   * NTU department: Mechanical and Aerospace Engineering (MAE)
 
 * Nov 2023 - Aug 2026: Schmidt Science Fellow, Stanford Medicine
