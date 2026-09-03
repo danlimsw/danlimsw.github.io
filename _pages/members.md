@@ -14,7 +14,7 @@ The Lim Lab is in its founding phase, with active recruitment across training le
 
 - **Role:** Principal Investigator  
 - **Research focus:** Low-cost and high-accessibility medical diagnostics, wave-based imaging, inverse-designed devices  
-- **Email:** [danlimsw@stanford.edu](mailto:daniel.limsw@ntu.edu.sg)  
+- **Email:** [daniel.limsw@ntu.edu.sg](mailto:daniel.limsw@ntu.edu.sg)  
 - **Profile:** [Curriculum vitae](/cv/)
 
 ## Current lab members
