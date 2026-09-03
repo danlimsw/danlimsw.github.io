@@ -14,14 +14,17 @@ The Lim Lab is in its founding phase, with active recruitment across training le
 
 - **Role:** Principal Investigator  
 - **Research focus:** Low-cost and high-accessibility medical diagnostics, wave-based imaging, inverse-designed devices  
-- **Email:** [danlimsw@stanford.edu](mailto:danlimsw@stanford.edu)  
+- **Email:** [danlimsw@stanford.edu](mailto:daniel.limsw@ntu.edu.sg)  
 - **Profile:** [Curriculum vitae](/cv/)
 
 ## Current lab members
 
-### PhD Student (Placeholder)
-- **Role:** Doctoral Researcher  
-- **Research area:** To be announced
+### Stephen Chua
+![Stephen Chua headshot](/images/Stephen_Chua.JPG){: style="max-width:180px; border-radius:50%;" }
+- **Role:** Ph.D. student
+- **Email:** [SCHUA065@e.ntu.edu.sg](mailto:SCHUA065@e.ntu.edu.sg)
+- **Profile:**
+
 
 ### Postdoctoral Scholar (Placeholder)
 - **Role:** Postdoctoral Researcher  
