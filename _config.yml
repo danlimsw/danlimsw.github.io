@@ -26,8 +26,8 @@ author:
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Alice Y. Hung Assistant Professor in Science and Technology, Schmidt Science Fellow, Applied Physicist, Biomedical Engineer"
   location         : 
-  employer         : "Nanyang Technological University"
-  uri              : "https://dr.ntu.edu.sg/entities/person/Soon-Wei-Daniel-Lim"
+  employer         : "NTU Singapore"
+  uri              : 
   email            : "daniel.limsw@ntu.edu.sg" 
 
   # Academic websites
