@@ -35,7 +35,6 @@ The Lim Lab is in its founding phase, with active recruitment across training le
 We welcome applications from final-year undergraduates, Master's students, PhD candidates, and research staff. If your interests align with translational imaging and diagnostic technologies, we encourage you to apply.
 
 - [Openings and application details](/join/)
-- Suggested timeline for August 2026 intake: apply as early as possible, preferably before **1 Dec 2025**.
 
 ## Group culture and mentoring expectations
 
