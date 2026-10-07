@@ -4,7 +4,7 @@ title: "Join us!"
 author_profile: true
 ---
 
-We are looking for founding adventurers at all levels (e.g., final year project undergraduates, Master's students, PhD candidates, research staff). Success not guaranteed; scientific excitement inevitable. Sounds like you? [Contact us here.](https://forms.gle/pw33Vd5LuwgMVA4NA)
+We are looking for founding adventurers at all levels, especially Ph.D. candidates. Success not guaranteed; scientific excitement inevitable. Sounds like you? [Contact us here.](https://forms.gle/pw33Vd5LuwgMVA4NA)
 
 Candidates that seek admission for the August 2027 start date should submit an inquiry [here](https://forms.gle/pw33Vd5LuwgMVA4NA) and also apply directly to [NTU MAE Admissions](https://www.ntu.edu.sg/education/graduate-programme/mae-phd).
 
@@ -40,27 +40,24 @@ A fully funded Ph.D. position is available for the design and development of a p
 
 [Apply here](https://forms.gle/pw33Vd5LuwgMVA4NA)
 
-## Ph.D. student (Nonlinear ultrasound and AI-guided imaging for virtual biopsies)
+## Ph.D. student (Acoustic mechanobiology)
 
-One fully funded Ph.D. position is available for the design and development of a nonlinear ultrasound platform with AI-enabled human-in-the-loop acquisition. 
+A fully funded Ph.D. position is available for the design and development of an acoustic stimulation platform for cell culture. 
 
-**Why is this important?** Conventional B-mode ultrasound imaging relies on structural information to produce contrast. It is not sensitive to other tissue properties which can contain critical diagnostic information, such as the presence of some cancerous lesions. Nonlinear ultrasound imaging which is sensitive to the high-order nonlinear coefficients of tissue is a promising capability with the potential to fill this gap. Combining nonlinear acquisition with AI-assisted guidance can move us toward *virtual biopsies* in resource-limited settings.
+**Required background**: Electronics, signal analysis, fluency in computer language of choice (Python, MATLAB, C++ preferred).
 
-**What does this involve?** Development of nonlinear excitation/receive schemes and corresponding reconstruction pipelines; building of human-in-the-loop AI for acquisition guidance and artifact suppression, validation on phantoms and ex-vivo tissues with collaborators. 
-
-**Required background**: Classical wave theory, linear algebra, fluency in computer language of choice (Python, MATLAB, C++ preferred), at least one ML stack (PyTorch/JAX preferred).
-
-**Good to have:** Numerical simulation, computer vision (segmentation/registration).
+**Good to have**: Cell biology at the undergraduate level, mammalian cell culture, sterile technique.
 
 [Apply here](https://forms.gle/pw33Vd5LuwgMVA4NA)
 
 ## All projects
 
 - All Ph.D. positions are fully funded with both tuition and stipend coverage. Students are supported for applications to competitive scholarships and fellowships.
-- Group members have opportunities to collaborate at the A*STAR Bioinformatics Institute (BII) and national research institutes.
 - Start dates: The Ph.D. and M.Eng. intake is in August and January each year. Other positions can start at mutually agreed times.
 - Lab culture: The Lim Lab values curiosity, experimentation, and a healthy work-life balance. Group members have regular one-to-one meetings for guidance and mentorship, support for conference travel, and a compassionate, collaborative environment.
 - Shortlisted candidates will be invited for a video call and guided through the official NTU application and scholarship process.
+- Ph.D. candidates must have or be completing a STEM undergraduate degree and have professional/native English fluency.
+- All Ph.D. candidates are expected to develop **both** computational and experimental research skills, hence all projects will include both computational and experimental components. 
 
 # Funding and scholarships
 
