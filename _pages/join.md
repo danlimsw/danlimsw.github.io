@@ -61,12 +61,11 @@ A fully funded Ph.D. position is available for the design and development of an 
 
 ## For graduate students
 
-* [Singapore International Graduate Award SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa): for international students only, Ph.D. coverage. 
 * [Nanyang President's Graduate Scholarship](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs#Content_C006_Col00): coverage up to 4 years for Ph.D. 
 * [NTU Research Scholarship](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss#Content_C005_Col00): coverage up to 4 years for Ph.D. 
 * [Hermes-Epitek Innovation Scholarship](https://www.ntu.edu.sg/graduate-college/admissions/scholarships/hermes-epitek-innovation-scholarship#Content_C004_Col00): for full-time Masters (by research), for Singapore citizens only. 
 * [Lee Kuan Yew Scholarship](https://www.psc.gov.sg/scholarships/postgraduate-scholarships/lee-kuan-yew-scholarship): for Masters (up to 2 years) or Ph.D. (up to 5 years), for Singapore citizens only. Apply through PSC portal.
-* [PSC Master's Scholarships](https://www.psc.gov.sg/scholarships/postgraduate-scholarships/psc-master's-scholarship) for Masters (up to 2 years), for Singapore citizens only. 
+* [PSC Master's Scholarships](https://www.scholarships.gov.sg/scholarships/psc/masters-scholarship) for Masters (up to 2 years), for Singapore citizens only. 
 
 ## For postdoctoral fellows
 
