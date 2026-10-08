@@ -8,8 +8,6 @@ We are looking for founding adventurers at all levels, especially Ph.D. candidat
 
 Candidates that seek admission for the August 2027 start date should submit an inquiry [here](https://forms.gle/pw33Vd5LuwgMVA4NA) and also apply directly to [NTU MAE Admissions](https://www.ntu.edu.sg/education/graduate-programme/mae-phd).
 
-If Google Forms is inaccessible or restricted, you may consider [emailing directly](mailto:daniel.limsw@ntu.edu.sg).
-
 # Openings
 
 ## Ph.D. student (Precision ultrasound detection for deep, high-resolution imaging)
