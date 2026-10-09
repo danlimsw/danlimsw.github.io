@@ -42,6 +42,10 @@ A fully funded Ph.D. position is available for the design and development of a p
 
 A fully funded Ph.D. position is available for the design and development of an acoustic stimulation platform for cell culture. 
 
+**Why is this important?** Tumors are mechanically heterogenous, complex systems. Their behavior influences and is influenced by the mechanical forces in their immediate vicinity. For instance, exerting mechanical stress in some systems can make it more likely for tumors to become more invasive and spread. It is critical that we understand the underlying mechanisms and identify potential therapeutic targets.
+
+**What does this involve?** Design and prototyping of a high resolution acoustic stimulation platform for cell culture, development of live cell imaging equipment and analysis pipelines. 
+
 **Required background**: Electronics, signal analysis, fluency in computer language of choice (Python, MATLAB, C++ preferred).
 
 **Good to have**: Cell biology at the undergraduate level, mammalian cell culture, sterile technique.
